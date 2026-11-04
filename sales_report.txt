@@ -1,0 +1,15 @@
+RETAIL SALES ANALYTICS
+Dataset: fictional practice sales
+
+Sales records: 12
+Total revenue: $269.00
+Total product cost: $174.20
+Gross profit: $94.80
+
+Best-selling product: Apples
+Units sold: 25
+
+Revenue by month:
+2026-01: $75.00
+2026-02: $92.50
+2026-03: $101.50
